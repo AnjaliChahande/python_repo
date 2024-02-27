@@ -1,6 +1,7 @@
 # programs to add two numbers in python 
 
-num1 = 70
+num1 = 70   
+
 
 num2 = 60
 

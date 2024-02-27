@@ -10,4 +10,4 @@ print ("the random number is ",num)
 
 # num = random.randint(1,6)
 
-# this will give you dies numbers in the range between 1 to 6
+# this will give you dies numbers in the range between 1 to 6.

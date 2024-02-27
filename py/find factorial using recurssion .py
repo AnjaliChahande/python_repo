@@ -9,3 +9,4 @@ def fact(a):
 num= int(input("enter a number here: "))
 result = fact(num)
 print ("the factorial of the given number is ", result)
+

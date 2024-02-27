@@ -1,6 +1,7 @@
 # program to check the number is o , positive or negative 
 
 
+
 num = float(input("enter the number here : "))
 
 if (num <0) :

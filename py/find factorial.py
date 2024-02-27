@@ -1,5 +1,6 @@
 # program to find the factorial of a number 
 
+
 num = int(input("enter a number here: " ))
 
 fact =1
