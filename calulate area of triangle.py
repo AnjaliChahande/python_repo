@@ -1,4 +1,4 @@
-#program to calculate the area of triangle 
+#program to calculate the area of triangle .......
 
 height = float(input("enter the height of the trianle :"))
 base = float (input("enter the base of the triangle :"))
